@@ -1,4 +1,4 @@
-from hello import hello
+from hello import hello_a
 
 def test_case():
-    assert(hello())=="hello"
+    assert(hello_a())=="hello"
